@@ -93,6 +93,7 @@ Russian - Native | English - Intermediate
 - QR-codes: Storage And Widget - Simple storage for QR codes. [IOS](https://apps.apple.com/us/app/qr-codes-storage-and-widget/id1594061269), [Android](https://play.google.com/store/apps/details?id=ru.ivakhnenko.myqrcodes)
 - Tttt: Text Repeater - Text utilites. [IOS](https://apps.apple.com/us/app/tttt-text-repeater/id1597690181), [Android](https://play.google.com/store/apps/details?id=ru.ivakhnenko.textrep)
 - Sketchify: Pencil Drawing - A simple application to create a pencil drawing of photos. [IOS](https://apps.apple.com/us/app/sketchify-pencil-drawing/id1606518014), [Android](https://play.google.com/store/apps/details?id=ru.ivakhnenko.pencil)
+- Resume Builder & PDF CV Maker - A simple app to create and share resume in PDF format. [IOS](https://apps.apple.com/US/app/id1630645768), [Android](https://play.google.com/store/apps/details?id=ru.ivakhnenko.resume)
 
 ## Ongoing/Recent Training
 
